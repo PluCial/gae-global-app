@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/slim3-1.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/appengine-java-sdk-1.9.30/lib/shared/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/appengine-java-sdk-1.9.30/lib/user/appengine-api-1.0-sdk-1.9.30.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-services-translate-v2-rev42-1.21.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-jackson2-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-client-1.21.0.jar"/>
+	<classpathentry kind="lib" path="lib/plucial-global-app-enum.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
